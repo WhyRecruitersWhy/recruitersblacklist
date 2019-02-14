@@ -1,5 +1,5 @@
 <a href="http://recruitersblacklist.com">
-    <img src="" alt="Recruiters Blacklist logo" title="RBL" align="right" height="60" />
+    <img src="https://i.imgur.com/iGx8ynt.png" alt="Recruiters Blacklist logo" title="RBL" align="right" height="60" />
 </a>
 
 Recruiters Black List
