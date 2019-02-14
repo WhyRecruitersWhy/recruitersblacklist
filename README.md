@@ -28,6 +28,20 @@ The list is provided in a CSV format. Future goal is to make lists for each mail
 
 Feel free to contribute, just open a PR with the added rows of data. We will do investigation to make sure that it's a recruiter and then add them. 
 
+We currently have 3 types for recruiter_type
+- recruiting_company
+- spam_recruiting_company
+- inhouse_recruiting_company
+
+### recruiting_company
+A company that does primarily IT recruiting for other firms and sends less than 4 emails a month to you. Highly targeted jobs that you may find interesting.
+
+### spam_recruiting_company
+A company that if you search the domain in your inbox you'll see dozens of emails usually sending multiple emails from multiple employees a day.
+
+### inhouse_recruiting_company
+A company recruiting to hire an employee for themselves. Normally these are hiring departments in larger corporations. These usually are the least intrusive and most interesting to look at. 
+
 ## License
 
 MIT License, contribute all the stuffs.
