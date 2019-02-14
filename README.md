@@ -34,10 +34,10 @@ We currently have 3 types for recruiter_type
 - inhouse_recruiting_company
 
 ### recruiting_company
-A company that does primarily IT recruiting for other firms and sends less than 4 emails a month to you. Highly targeted jobs that you may find interesting.
+A company that does primarily IT recruiting for other firms and is sending a targeting email to you specifically.
 
 ### spam_recruiting_company
-A company that if you search the domain in your inbox you'll see dozens of emails usually sending multiple emails from multiple employees a day.
+A company that if you search the domain in your inbox you'll see dozens of emails usually sending multiple emails from multiple employees a day or week.
 
 ### inhouse_recruiting_company
 A company recruiting to hire an employee for themselves. Normally these are hiring departments in larger corporations. These usually are the least intrusive and most interesting to look at. 
