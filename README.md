@@ -18,7 +18,7 @@ Recruiters Black List
 
 ## Reason
 
-The purpose of this project is to gather all the recruiters emails and phone numbers that are spamming out phones. The sad reality is that if you are in IT, once you put your resume online, the calls and emails do not stop. It doesn't matter if you take them off or say you're not on the market, they will keep flooding in. Your data has been spread and now you may be getting dozens or hundreds of spam emails a day. This list is for enabling during the times when we are not actively looking and we can take it off when we are looking for a job. 
+The purpose of this project is to gather all the recruiters emails and phone numbers that are spamming us. The sad reality is that if you are in IT, once you put your resume online, the calls and emails do not stop. It doesn't matter if you take them off or say you're not on the market, they will keep flooding in. Your data has been spread and now you may be getting dozens or hundreds of spam emails a day. This list is for enabling during the times when we are not actively looking and we can take it off when we are looking for a job. 
 
 ## List
 
